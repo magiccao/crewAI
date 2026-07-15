@@ -1,0 +1,131 @@
+lib/crewai/src/crewai/experimental/agent_executor.py
+  s_4aee85f6eb32d8::t_3807622de3c757 65-66,1986,2050-2052
+lib/crewai/src/crewai/lite_agent_output.py
+  s_4aee85f6eb32d8::t_3807622de3c757 9,42-48,96-107
+lib/crewai/tests/test_flow_from_definition.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1105,1115-1116,1127,1130,1323
+lib/crewai/src/crewai/hooks/tool_hooks.py
+  s_4aee85f6eb32d8::t_3807622de3c757 8-13,130-204
+lib/crewai/src/crewai/events/types/hook_events.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1-19
+lib/crewai/tests/utilities/test_console_formatter_tui_mode.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1-46
+lib/crewai/src/crewai/flow/templates/flow_definition_skill.md.j2
+  s_4aee85f6eb32d8::t_3807622de3c757 49,141
+lib/cli/src/crewai_cli/crew_run_tui.py
+  s_4aee85f6eb32d8::t_3807622de3c757 571-576,583-596,625-626,706-748,762-764,771-773,812-814,821-823,1234-1272,1342-1390,2005-2011,2045-2047,2054-2111
+lib/crewai/tests/hooks/test_tool_hooks.py
+  s_4aee85f6eb32d8::t_3807622de3c757 579-647
+lib/crewai/tests/test_flow_definition.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1351-1359
+docs/edge/en/concepts/llms.mdx
+  s_4aee85f6eb32d8::t_3807622de3c757 147-158
+lib/crewai/tests/hooks/test_interception_conformance.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1-149
+docs/edge/en/learn/execution-hooks.mdx
+  s_4aee85f6eb32d8::t_3807622de3c757 2-3,7-11,13-14,16-17,19-22,24-29,31,33,35-46,48,50-55,57,59-60,63,65-67,70-71,75,79-80,85,87,89,91-96,98,100-105,107,109-112,114-115,117,119-121,124-127,130,132-140,142,144,147-156,159,162-169,172,174-175,178,180-187,190,193-195,198,200-203,205,207,211,214-215,217,220,222-231,233,235-237,240,243-245,247-250,252,254-261,263-266,268-269,271,273-274
+lib/crewai/tests/tools/test_base_tool.py
+  s_4aee85f6eb32d8::t_3807622de3c757 21-30,41-44,65-74,83-86,710-794
+lib/crewai/src/crewai/llm.py
+  s_4aee85f6eb32d8::t_3807622de3c757 397-400,404,409-410,413-425,454-464,482-483,619-631
+lib/crewai/tests/test_tool_cache_default.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1-263
+lib/cli/src/crewai_cli/run_declarative_flow.py
+  s_4aee85f6eb32d8::t_3807622de3c757 4,7,22-28,77-87,92-93,99-250
+lib/cli/tests/test_run_declarative_flow.py
+  s_4aee85f6eb32d8::t_3807622de3c757 5,13-23,415-613
+lib/cli/src/crewai_cli/templates/declarative_flow/AGENTS.md
+  s_4aee85f6eb32d8::t_3807622de3c757 62,108,244,309
+lib/crewai/src/crewai/crew.py
+  s_4aee85f6eb32d8::t_3807622de3c757 173-177,224-233,1065-1067,1280-1282,1526-1530,1869-1900,1913-1938,1953
+lib/crewai/tests/hooks/test_crew_scoped_hooks.py
+  s_4aee85f6eb32d8::t_3807622de3c757 309-364
+lib/crewai/tests/agents/test_lite_agent.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1141-1297
+lib/crewai/src/crewai/project/crew_base.py
+  s_4aee85f6eb32d8::t_3807622de3c757 455-463,599-616
+lib/crewai/src/crewai/agents/crew_agent_executor.py
+  s_4aee85f6eb32d8::t_3807622de3c757 49-50,962,1023-1025
+lib/crewai/src/crewai/tools/structured_tool.py
+  s_4aee85f6eb32d8::t_3807622de3c757 7,25-28,115-178,212-219
+lib/crewai/src/crewai/hooks/dispatch.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1-432
+lib/crewai/tests/llms/openai/test_openai.py
+  s_4aee85f6eb32d8::t_3807622de3c757 33,37-182,209,215,569-580,583,587
+lib/crewai/src/crewai/experimental/conversational_mixin.py
+  s_4aee85f6eb32d8::t_3807622de3c757 136-137,190-192,194,197-205,325,329,402,418,565-569,638-640,745,812-815,880,888,1216-1223
+lib/crewai/src/crewai/events/utils/console_formatter.py
+  s_4aee85f6eb32d8::t_3807622de3c757 214-220
+docs/edge/en/learn/litellm-removal-guide.mdx
+  s_4aee85f6eb32d8::t_3807622de3c757 243-244,251,299-384,411-412,440-441
+lib/crewai/src/crewai/flow/skill.py
+  s_4aee85f6eb32d8::t_3807622de3c757 189-195,203,271
+lib/crewai/src/crewai/hooks/contexts.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1-71
+lib/crewai/src/crewai/task.py
+  s_4aee85f6eb32d8::t_3807622de3c757 665-679,736-747,769-770,772-774,819-833,890-901,923-924,926-928
+lib/crewai/src/crewai/hooks/__init__.py
+  s_4aee85f6eb32d8::t_3807622de3c757 9-19,88-89,99,104-105,110-111,116,121
+lib/crewai/src/crewai/tools/tool_usage.py
+  s_4aee85f6eb32d8::t_3807622de3c757 433,673,806
+lib/crewai/src/crewai/flow/runtime/__init__.py
+  s_4aee85f6eb32d8::t_3807622de3c757 959-974,1479-1491,1506-1513,2053-2055,2081-2111,2347-2361,2374-2381,2414-2416,2435-2436,2629-2659,2687-2695
+lib/crewai/src/crewai/utilities/tool_utils.py
+  s_4aee85f6eb32d8::t_3807622de3c757 9-10,59,103-123,139,141-144,225-245,261-266
+uv.lock
+  ai_agent 16,1031,1036,1038,6129-6176
+lib/crewai/src/crewai/hooks/llm_hooks.py
+  s_4aee85f6eb32d8::t_3807622de3c757 8-12,158-188
+lib/crewai/src/crewai/agents/agent_builder/base_agent.py
+  s_4aee85f6eb32d8::t_3807622de3c757 208-212,261,275-282,731-743
+lib/cli/tests/test_crew_run_tui.py
+  s_4aee85f6eb32d8::t_3807622de3c757 9-16,970-994,1517-1723
+lib/crewai/src/crewai/agent/core.py
+  s_4aee85f6eb32d8::t_3807622de3c757 89,404-426,1605-1608,1610-1616,1630,1641-1642,1653,1705-1716,1722,1732-1734,1779-1781,1810,1814-1816,1823,1827-1829,1838,1848-1850,1888-1890,1898,1961,1963,1966-1972
+lib/crewai/src/crewai/crews/crew_output.py
+  s_4aee85f6eb32d8::t_3807622de3c757 27-31,34-42
+lib/crewai/tests/test_usage_shape_parity.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1-143
+lib/cli/tests/test_create_flow.py
+  s_4aee85f6eb32d8::t_3807622de3c757 32-34
+lib/crewai/src/crewai/utilities/agent_utils.py
+  s_4aee85f6eb32d8::t_3807622de3c757 30-33,153-160,203-206,1456-1457,1528,1583-1585,1681-1697,1703-1710,1713,1716,1753-1770,1783-1791
+lib/crewai/tests/hooks/test_dispatch.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1-296
+lib/crewai/src/crewai/llms/base_llm.py
+  s_4aee85f6eb32d8::t_3807622de3c757 969-975,977,1010,1013,1016-1017,1028-1038,1071,1074,1077-1078,1089-1093,1095
+lib/crewai/tests/hooks/test_llm_hooks.py
+  s_4aee85f6eb32d8::t_3807622de3c757 275-308,340-438,599-672
+lib/crewai/tests/test_flow.py
+  s_4aee85f6eb32d8::t_3807622de3c757 2356-2393
+lib/crewai/src/crewai/tools/base_tool.py
+  s_4aee85f6eb32d8::t_3807622de3c757 39,481-489,491-501
+lib/crewai/src/crewai/llms/providers/openai/completion.py
+  s_4aee85f6eb32d8::t_3807622de3c757 235,249-262,373-381,399
+lib/crewai/src/crewai/types/usage_metrics.py
+  s_4aee85f6eb32d8::t_3807622de3c757 79-110
+lib/crewai/tests/test_crew.py
+  s_4aee85f6eb32d8::t_3807622de3c757 862,2250-2252,4604-4693
+lib/crewai/tests/test_flow_conversation.py
+  s_4aee85f6eb32d8::t_3807622de3c757 1558-1731
+.github/workflows/vulnerability-scan.yml
+  s_4aee85f6eb32d8::t_3807622de3c757 77-78,93-95
+lib/crewai/src/crewai/flow/expressions.py
+  s_4aee85f6eb32d8::t_3807622de3c757 80-82,336
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.33-trip",
+  "base_commit_sha": "222d500689e7510b107b9a85c680798f96c9d944",
+  "prompts": {},
+  "sessions": {
+    "s_4aee85f6eb32d8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3524e4d2-e631-4960-9901-4f8991d6298e",
+        "model": "glm-5.2"
+      },
+      "human_author": "dongcao <dongcao@Ctrip.com>"
+    }
+  }
+}
